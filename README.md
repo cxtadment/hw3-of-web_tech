@@ -1,4 +1,2 @@
 #webpage imitation
 ===
-stupid homework
-===
